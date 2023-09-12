@@ -1,6 +1,6 @@
 # Mips_single_cycle
 Project Title: Single Cycle MIPS Processor                                                                   
-The project completion date is May 15, 2022 
+The project completion date is May 15, 2022.
 
 Description:
 The Single Cycle MIPS Processor project is an implementation of a simplified MIPS  without Interlocked Pipeline Stages) processor using a single-cycle architecture in Verilog HDL.
