@@ -1,4 +1,4 @@
-# Project Title: Single Cycle MIPS Processor                                                                
+# Project Title: Single Cycle MIPS Processor                                                                                           
 The project completion date is May 15, 2022.
 
 Description:
